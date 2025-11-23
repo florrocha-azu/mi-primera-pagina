@@ -31,10 +31,3 @@ print(len(frutas))
 referencias
 https://codigital.ec/introduccion-a-python-10-ejemplos-de-codigo-para-principiantes/
 https://iudigital.instructure.com/courses/23661/pages/formas-de-representacion?module_item_id=1594910
-
-# Reto 1: Simula el comportamiento de la tortuga con print() y input()  
-# Simulación de avance con print e input
-pasos = int(input("¿Cuántos pasos deseas que avance la tortuga? "))
-for i in range(pasos):
-    print("→", end="")
-print()  # Salto de línea al final
