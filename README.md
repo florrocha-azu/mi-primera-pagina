@@ -1,4 +1,4 @@
-# mi-primera-pagina
+[reto 1.md](https://github.com/user-attachments/files/23701936/reto.1.md)# mi-primera-pagina
 un lenguaje de programacion es un lenguaje formal o artificial especificas que le ayudan al programador a dar instrucciones en forma de algoritmos a una maquina.
 hay lenguaje interpretado las iunstrucciones son traducidas por un lenguaje interprete( python,perl,bash)
 lenguaje compilados las instrucciones son traducidas en un grupo por una aplicacion compilador (FORTRAM, C/C++)
@@ -9,8 +9,38 @@ un programa es un conjunto de instrucciones que recvibe una maquina para realiza
 las variables son espacios en la memoria donde se guarda informacion tales como numeros,textos,resultados.
 ejemplo nombre="ana" edad "20" se usa la palabra porque nombre y edad son variables luego se usa print para mostrar un mensaje 
 tipos de datos Los datos son uno de los insumos más relevantes en la existencia del algoritmo, pues gracias a ellos es posible ejecutar las acciones en el procesamiento del mismo,numerico entero, numerico decimal,cadena de texto,booleano,fecha,binario.
-tipo de datos en pytohm numeros complejos,tupla,lista,diccionario,Los tipos de datos varían levemente de un lenguaje de programación a otro. En algunos lenguajes, por ejemplo, los datos numéricos pueden ser enteros, decimales y decimales de coma flotante. Python tiene solo el tipo numérico, aunque se puede adaptar a alguno de los anteriores, dependiendo del contenido del dato que se le asigna. 
-Instrucciones lógicas: Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
+tipo de datos en pytohm numeros complejos,tupla,lista,diccionario,Los tipos de datos varían levemente de un lenguaje de programación a otro. En algunos lenguajes, por ejemplo, los datos numéricos pueden ser enteros, decimales y decimales de coma flotante. Python tiene solo el tipo numérico, aunque se puede adaptar a alguno de los anteriores, dependiendo del contenido del dato que se le asigna
+
+
+
+
+
+
+
+
+
+[Uploading reto 1.m[reto5.py](https://github.com/user-attachments/files/23701937/reto5.py)[reto 3.md](https://github.com/user-attachments/files/23701945/reto.3.md)
+[reto 3.py](https://github.com/user-attachments/files/23701944/reto.3.py)
+[reto1.py](https://github.com/user-attachments/files/23701943/reto1.py)
+[reto2.md](https://github.com/user-attachments/files/23701942/reto2.md)
+[reto2.py](https://github.com/user-attachments/files/23701941/reto2.py)
+[reto4.md](https://github.com/user-attachments/files/23701940/reto4.md)
+[reto4.py](https://github.com/user-attachments/files/23701939/reto4.py)
+[reto5.md](https://github.com/user-attachments/files/23701938/reto5.md)
+d…]()
+
+
+Instrucciones lógicas[reto 3.md](https://github.com/user-attachments/files/23701964/reto.3.md)
+[reto 3.py](https://github.com/user-attachments/files/23701963/reto.3.py)
+[reto1.py](https://github.com/user-attachments/files/23701962/reto1.py)
+[reto2.md](https://github.com/user-attachments/files/23701961/reto2.md)
+[reto2.py](https://github.com/user-attachments/files/23701960/reto2.py)
+[reto4.md](https://github.com/user-attachments/files/23701959/reto4.md)
+[reto4.py](https://github.com/user-attachments/files/23701958/reto4.py)
+[reto5.md](https://github.com/user-attachments/files/23701957/reto5.md)
+[reto5.py](https://github.com/user-attachments/files/23701956/reto5.py)
+[reto 1.md](https://github.com/user-attachments/files/23701955/reto.1.md)
+: Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
 Instrucciones matemáticas: Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
 operadores aritmeticos Son utilizados para realizar las operaciones matemáticas básicas sumar,restar, multiplicar y dividir.
 operadores relacionales Usados para evaluar expresiones condicionales a partir de la comparación de dos variables y/o valores. Al ser condicionales, el resultado de un operador relacional será verdadero o falso. igual,diferente,mayor que,mayor igual ,menor que,menor igual.
