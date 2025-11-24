@@ -27,17 +27,10 @@ print(frutas)
 
 
 [Uploading reto 1.m[reto5.py](https://github.com/user-attachments/files/23701937/reto5.py)[reto 3.md](https://github.com/user-attachments/files/23701945/reto.3.md)
-[reto 3.py](https://github.com/user-attachments/files/23701944/reto.3.py)
-[reto1.py](https://github.com/user-attachments/files/23701943/reto1.py)
-[reto2.md](https://github.com/user-attachments/files/23701942/reto2.md)
-[reto2.py](https://github.com/user-attachments/files/23701941/reto2.py)
-[reto4.md](https://github.com/user-attachments/files/23701940/reto4.md)
-[reto4.py](https://github.com/user-attachments/files/23701939/reto4.py)
-[reto5.md](https://github.com/user-attachments/files/23701938/reto5.md)
-d…]()
 
 
-Instrucciones lógicas[reto 3.md](https://github.com/user-attachments/files/23701964/reto.3.md)
+Instrucciones lógicas
+[reto 3.md](https://github.com/user-attachments/files/23701964/reto.3.md)
 [reto 3.py](https://github.com/user-attachments/files/23701963/reto.3.py)
 [reto1.py](https://github.com/user-attachments/files/23701962/reto1.py)
 [reto2.md](https://github.com/user-attachments/files/23701961/reto2.md)
