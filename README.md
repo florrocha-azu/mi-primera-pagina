@@ -9,7 +9,14 @@ un programa es un conjunto de instrucciones que recvibe una maquina para realiza
 las variables son espacios en la memoria donde se guarda informacion tales como numeros,textos,resultados.
 ejemplo nombre="ana" edad "20" se usa la palabra porque nombre y edad son variables luego se usa print para mostrar un mensaje 
 tipos de datos Los datos son uno de los insumos más relevantes en la existencia del algoritmo, pues gracias a ellos es posible ejecutar las acciones en el procesamiento del mismo,numerico entero, numerico decimal,cadena de texto,booleano,fecha,binario.
-tipo de datos en pytohm numeros complejos,tupla,lista,diccionario,Los tipos de datos varían levemente de un lenguaje de programación a otro. En algunos lenguajes, por ejemplo, los datos numéricos pueden ser enteros, decimales y decimales de coma flotante. Python tiene solo el tipo numérico, aunque se puede adaptar a alguno de los anteriores, dependiendo del contenido del dato que se le asigna
+tipo de datos en pytohm numeros complejos,tupla,lista,diccionario,Los tipos de datos varían levemente de un lenguaje de programación a otro. En algunos lenguajes, por ejemplo, los datos numéricos pueden ser enteros, decimales y decimales de coma flotante. Python tiene solo el tipo numérico, aunque se puede adaptar a alguno de los anteriores, dependiendo del contenido del dato que se le asigna : Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
+Instrucciones matemáticas: Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
+operadores aritmeticos Son utilizados para realizar las operaciones matemáticas básicas sumar,restar, multiplicar y dividir.
+operadores relacionales Usados para evaluar expresiones condicionales a partir de la comparación de dos variables y/o valores. Al ser condicionales, el resultado de un operador relacional será verdadero o falso. igual,diferente,mayor que,mayor igual ,menor que,menor igual.
+operadores logicos Al igual que los relacionales, los operadores lógicos se usan para evaluar expresiones condicionales a partir de la unión de varios valores y/o variables. Los operadores lógicos devuelven un resultado que puede ser verdadero o falso. Y conjuncion,O disyuncion,NO negacion.
+ejemplo de python # Listas
+frutas = ["manzana", "plátano", "naranja"]
+print(frutas)
 
 
 
@@ -40,24 +47,4 @@ Instrucciones lógicas[reto 3.md](https://github.com/user-attachments/files/2370
 [reto5.md](https://github.com/user-attachments/files/23701957/reto5.md)
 [reto5.py](https://github.com/user-attachments/files/23701956/reto5.py)
 [reto 1.md](https://github.com/user-attachments/files/23701955/reto.1.md)
-: Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
-Instrucciones matemáticas: Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
-operadores aritmeticos Son utilizados para realizar las operaciones matemáticas básicas sumar,restar, multiplicar y dividir.
-operadores relacionales Usados para evaluar expresiones condicionales a partir de la comparación de dos variables y/o valores. Al ser condicionales, el resultado de un operador relacional será verdadero o falso. igual,diferente,mayor que,mayor igual ,menor que,menor igual.
-operadores logicos Al igual que los relacionales, los operadores lógicos se usan para evaluar expresiones condicionales a partir de la unión de varios valores y/o variables. Los operadores lógicos devuelven un resultado que puede ser verdadero o falso. Y conjuncion,O disyuncion,NO negacion.
-ejemplo de python # Listas
-frutas = ["manzana", "plátano", "naranja"]
-print(frutas)
-
-# Acceder a un elemento de la lista
-print(frutas[0])
-
-# Agregar un elemento a la lista
-frutas.append("pera")
-print(frutas)
-
-# Longitud de la lista
-print(len(frutas))
-referencias
-https://codigital.ec/introduccion-a-python-10-ejemplos-de-codigo-para-principiantes/
-https://iudigital.instructure.com/courses/23661/pages/formas-de-representacion?module_item_id=1594910
+n?module_item_id=1594910
