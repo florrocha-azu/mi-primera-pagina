@@ -1,22 +1,44 @@
-[reto 1.md](https://github.com/user-attachments/files/23701936/reto.1.md)# mi-primera-pagina
-un lenguaje de programacion es un lenguaje formal o artificial especificas que le ayudan al programador a dar instrucciones en forma de algoritmos a una maquina.
-hay lenguaje interpretado las iunstrucciones son traducidas por un lenguaje interprete( python,perl,bash)
-lenguaje compilados las instrucciones son traducidas en un grupo por una aplicacion compilador (FORTRAM, C/C++)
-lenguaje intermedio por parte compilados y  parte interpretados (java,scala)
-los entornos de desarrollo integrado (IDE) permiten a los programadores puedan escribir el codigo les ayuda a escribirlo,corregirlo y  probarlo  la IA a ayudado bastante en la actualidad en la escritura de codigo.( Google Colaboratory),esta herramienta se integra con drive su nube de almacenamiento.
-los algoritmos cuenta con entradas, procesos y salidas, Por ejemplo: puede considerarse como algoritmo una serie de instrucciones para obtener el resultado de la suma de dos números
-un programa es un conjunto de instrucciones que recvibe una maquina para realizar diversas tareas, busquedas, operaciones.
-las variables son espacios en la memoria donde se guarda informacion tales como numeros,textos,resultados.
-ejemplo nombre="ana" edad "20" se usa la palabra porque nombre y edad son variables luego se usa print para mostrar un mensaje 
-tipos de datos Los datos son uno de los insumos más relevantes en la existencia del algoritmo, pues gracias a ellos es posible ejecutar las acciones en el procesamiento del mismo,numerico entero, numerico decimal,cadena de texto,booleano,fecha,binario.
-tipo de datos en pytohm numeros complejos,tupla,lista,diccionario,Los tipos de datos varían levemente de un lenguaje de programación a otro. En algunos lenguajes, por ejemplo, los datos numéricos pueden ser enteros, decimales y decimales de coma flotante. Python tiene solo el tipo numérico, aunque se puede adaptar a alguno de los anteriores, dependiendo del contenido del dato que se le asigna : Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
-Instrucciones matemáticas: Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
-operadores aritmeticos Son utilizados para realizar las operaciones matemáticas básicas sumar,restar, multiplicar y dividir.
-operadores relacionales Usados para evaluar expresiones condicionales a partir de la comparación de dos variables y/o valores. Al ser condicionales, el resultado de un operador relacional será verdadero o falso. igual,diferente,mayor que,mayor igual ,menor que,menor igual.
-operadores logicos Al igual que los relacionales, los operadores lógicos se usan para evaluar expresiones condicionales a partir de la unión de varios valores y/o variables. Los operadores lógicos devuelven un resultado que puede ser verdadero o falso. Y conjuncion,O disyuncion,NO negacion.
-ejemplo de python # Listas
-frutas = ["manzana", "plátano", "naranja"]
-print(frutas)
+
+# Mi primera página – Pensamiento Algorítmico
+
+Este repositorio forma parte del curso de **Pensamiento Algorítmico**.  
+Aquí estoy practicando el uso de GitHub y Markdown para documentar mis ejercicios de programación y construir mi portafolio profesional.
+
+## Descripción del proyecto
+
+En este repositorio iré agregando pequeños proyectos y retos realizados en clase.  
+El objetivo es:
+
+- Familiarizarme con el uso de Git y GitHub.
+- Aprender a escribir documentación clara en **Markdown**.
+- Presentar mi trabajo de forma ordenada y legible para profesores y futuros empleadores.
+
+## Estructura del repositorio
+
+- `README.md`: este archivo, donde describo el proyecto y cómo usarlo.
+- Archivos `.py`: ejercicios y prácticas en Python.
+- Otros archivos que iré agregando a medida que avance el curso.
+
+## Cómo trabajar con este repositorio
+
+1. Clona el repositorio o descárgalo:
+   - Desde el botón **Code** → Download ZIP, o
+   - Usando Git en la terminal.
+2. Abre la carpeta del proyecto en tu editor de código (por ejemplo, VS Code).
+3. Explora los archivos `.py` para ver los ejercicios y pruebas de la materia.
+
+## Historia y objetivos personales
+
+Este repositorio es mi primer contacto real con GitHub como herramienta profesional.  
+Mi objetivo es acostumbrarme a documentar lo que hago, explicar mis decisiones y mantener mi código organizado.
+
+Con el tiempo quiero que este espacio muestre mi progreso en programación y pensamiento algorítmico, dejando claro que soy una persona **diligente y cuidadosa**, tal como se espera de un profesional.
+
+## Próximos pasos
+
+- Agregar más ejercicios con su explicación en este README.
+- Mejorar el formato usando más recursos de Markdown (listas, tablas, imágenes, etc.).
+- Mantener una narrativa clara de lo que voy aprendiendo en cada unidad del curso.
 
 
 
@@ -24,20 +46,3 @@ print(frutas)
 
 
 
-
-
-[Uploading reto 1.m[reto5.py](https://github.com/user-attachments/files/23701937/reto5.py)[reto 3.md](https://github.com/user-attachments/files/23701945/reto.3.md)
-
-
-Instrucciones lógicas
-[reto 3.md](https://github.com/user-attachments/files/23701964/reto.3.md)
-[reto 3.py](https://github.com/user-attachments/files/23701963/reto.3.py)
-[reto1.py](https://github.com/user-attachments/files/23701962/reto1.py)
-[reto2.md](https://github.com/user-attachments/files/23701961/reto2.md)
-[reto2.py](https://github.com/user-attachments/files/23701960/reto2.py)
-[reto4.md](https://github.com/user-attachments/files/23701959/reto4.md)
-[reto4.py](https://github.com/user-attachments/files/23701958/reto4.py)
-[reto5.md](https://github.com/user-attachments/files/23701957/reto5.md)
-[reto5.py](https://github.com/user-attachments/files/23701956/reto5.py)
-[reto 1.md](https://github.com/user-attachments/files/23701955/reto.1.md)
-n?module_item_id=1594910
