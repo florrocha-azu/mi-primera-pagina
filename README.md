@@ -40,6 +40,9 @@ Con el tiempo quiero que este espacio muestre mi progreso en programación y pen
 - Mejorar el formato usando más recursos de Markdown (listas, tablas, imágenes, etc.).
 - Mantener una narrativa clara de lo que voy aprendiendo en cada unidad del curso.
 
+## Link tarea 2
+- [Tarea 2 Unidad 1](https://florrocha-azu.github.io/mi-primera-pagina/blog/tarea2_unidad1)
+
 
 
 
