@@ -58,8 +58,6 @@ def abajo(pasos):
         print(" " * pasos_adelante + "|")
     print(" " * pasos_adelante + "V")
 
-
-# Ejemplo sin input
 adelante(6)
 abajo(4)
 ```
