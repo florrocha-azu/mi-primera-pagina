@@ -43,7 +43,9 @@ Con el tiempo quiero que este espacio muestre mi progreso en programación y pen
 ## Link tarea 2
 - [Tarea 2 Unidad 1](https://florrocha-azu.github.io/mi-primera-pagina/blog/tarea2_unidad1)
 
-
+## Tarea Mini-Turtle
+- [Mini Turtle](https://github.com/florrocha-azu/proyecto_mini_turtle)
+- [Mini Turtle OO](https://github.com/florrocha-azu/proyecto_mini_turtle_oo)
 
 
 
